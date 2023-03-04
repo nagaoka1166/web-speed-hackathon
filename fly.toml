@@ -1,3 +1,6 @@
+# fly.toml file generated for aged-grass-2985 on 2023-03-04T13:53:32+09:00
+
+app = "aged-grass-2985"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = []
